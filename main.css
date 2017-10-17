@@ -1,0 +1,68 @@
+
+.superior{
+	width:552px; ;
+	height:50px;
+	border: 1px solid black;
+	border-bottom: none;
+	background-color: orange;
+
+}
+.antes{
+	width:150px;
+	height:450px;
+	border:1px solid black;
+	float: left;
+
+}
+
+.monopoly{
+	width:250px; ;
+	height:450px;
+	border: 1px solid black;
+	border-left: none;
+	float:left;
+
+}
+.monopoly h1,h3,h2{
+	text-align:center;
+}
+p{
+	text-align: justify;
+	margin: 30px;
+	font-size:small;
+
+}
+.inferior p{
+	text-align: center;
+	font-size:medium;
+}
+
+.ahora{
+	width:150px; ;
+	height:450px; ;
+	border:1px solid black ;
+	border-left: none;
+	float: left;
+}
+
+.inferior{
+	width:552px; ;
+	height:30px;
+	border: 1px solid black;
+	background-color: orange;
+	border-top: none;
+	clear:both;
+	
+}
+.monopoly1{
+	width:100px ;
+	height: 100px;
+	margin: 20px;
+
+}
+
+.monopoly2{
+	width:100px;
+	height:100px;
+	margin-left: 20px;
+}
