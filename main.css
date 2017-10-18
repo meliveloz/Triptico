@@ -1,4 +1,12 @@
 
+.contenedor{
+	width: 560px;
+	height: 505px;
+	position: relative;
+}
+
+
+
 .superior{
 	width:552px; ;
 	height:50px;
@@ -58,6 +66,9 @@ p{
 	width:100px ;
 	height: 100px;
 	margin: 20px;
+	position: absolute;
+	left: 400px;
+	top:370px;
 
 }
 
@@ -65,4 +76,8 @@ p{
 	width:100px;
 	height:100px;
 	margin-left: 20px;
+	position: absolute;
+	left: 17px;
+	top:360px;
+
 }
